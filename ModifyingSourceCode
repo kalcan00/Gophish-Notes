@@ -1,0 +1,3 @@
+###
+
+- In order to change the "rid" variable that appears in the URLs, you need to change the value of RecipientParameter from /models/campaign.go -> https://github.com/gophish/gophish/blob/master/models/campaign.go#L123
